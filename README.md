@@ -1,11 +1,5 @@
 - 👋 Hi, I’m Prabhas Kumar (@KumarP_India)
-- 👀 I’m interested in Deep-Learing, Self-Driving Cars, Computer Vision, Python (Presonal prefered lanuage), C++ (For arduino),  
-                        Open-CV, TensorFlow, Raspberry-Pi, Arduino etc.
-- 🌱 I’m currently learning Deep-Learning, Python (Advance Level), Computer Vision etc.
-- 💞️ I’m looking to collaborate on Self-Driving Cars
-- 📫 How to reach me --- E-Mail me to kumar.prabhas.india@gmail.com
-
-<!---
-This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m passionate about Mathematics, Particle Physics, Computer Science, Deep Learning, Self-Driving Cars, Computer Vision, and AI development. My preferred programming language is Python, but I also love Swift for its modern safe lanuage and C++ for speed.
+- 🌱 I’m currently learning advanced topics in Deep Learning, Python, MacOS app development, and exploring innovative applications in AR/VR with Vision Pro.
+- 💞️ I’m looking to collaborate on AI projects, particularly in the areas of Self-Driving Cars and AR/VR development, or on desktop (both console & GUI) application.
+- 📫 How to reach me --- Email me at kumar.prabhas.india@gmail.com
