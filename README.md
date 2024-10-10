@@ -1,5 +1,7 @@
-- 👋 Hi, I’m Prabhas Kumar (@KumarP_India)
-- 👀 I’m passionate about Mathematics, Particle Physics, Computer Science, Deep Learning, Self-Driving Cars, Computer Vision, and AI development. My preferred programming language is Python, but I also love Swift for its modern safe lanuage and C++ for speed.
-- 🌱 I’m currently learning advanced topics in Deep Learning, Python, MacOS app development, and exploring innovative applications in AR/VR with Vision Pro.
-- 💞️ I’m looking to collaborate on AI projects, particularly in the areas of Self-Driving Cars and AR/VR development, or on desktop (both console & GUI) application.
-- 📫 How to reach me --- Email me at kumar.prabhas.india@gmail.com
+🚀 **Innovator | Entrepreneur | Data Scientist in Progress**
+
+- 🎓 BTech CSE (Data Science) @ Manipal University Jaipur
+- 🔬 Aspiring to revolutionize tech through **Mathematics, Particle Physics, and Computer Science**
+- 💡 Building solutions that are **accessible, impactful**, and **for all**
+- 💻 Passionate about **coding**, **problem-solving**, and **open-source**
+- 💪 Always learning, exploring, and creating 
