@@ -1,4 +1,4 @@
-Entrepreneur | Software Engineer
+Entrepreneur, Software Engineer. 
 
 Head of Development, Co-Founder<br>
 CoreVision<br>
